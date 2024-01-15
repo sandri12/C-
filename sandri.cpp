@@ -287,7 +287,7 @@ void loan()
 
         cout << "\n\tYour Loan receipt-";
         cout << "\n\t\t _________________________________________";
-        cout << "\n\t\t|         SUNITA MILK DAIRY--           |";
+        cout << "\n\t\t|         Sandri sapi MILK DAIRY--        |";
         cout << "\n\n\t\t   Home loan[on 12%]  -" << principal << "rs";
         cout << "\n\n\t\t   Interest           -" << interest << "rs";
         cout << "\n\n\t\t   Total loan due     -" << totaldue << "rs";
@@ -343,7 +343,7 @@ void loan()
 
         cout << "\n\tYour Loan receipt-";
         cout << "\n\t\t _________________________________________";
-        cout << "\n\t\t|        SUNITA MILK DAIRY--           |";
+        cout << "\n\t\t|        Sapi sandri MILK DAIRY--          |";
         cout << "\n\n\t\t Agriculture loan[on 7%] -" << principal << "rs";
         cout << "\n\n\t\t      Interest           -" << interest << "rs";
         cout << "\n\n\t\t      Total loan due     -" << totaldue << "rs";
@@ -370,9 +370,9 @@ void loan()
 void about()
 {
     system("cls");
-    cout << "\n\n\t\tAbout SUNITA milk dairy";
+    cout << "\n\n\t\tAbout sapi sandri milk dairy";
     cout << "\n\t\t ============================================";
-    cout << "\n\t\t|  SUNITA milk dairy is a leading dairy      |";
+    cout << "\n\t\t|  Sapi sandri milk dairy is a leading dair |";
     cout << "\n\t\t|  in the region, providing quality dairy   |";
     cout << "\n\t\t|  products to our customers. We are        |";
     cout << "\n\t\t|  committed to delivering fresh and        |";
